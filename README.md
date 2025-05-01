@@ -8,7 +8,7 @@ MovieFlix é uma API REST desenvolvida em Java com Spring Boot, projetada para g
 - **Spring Boot**: Framework para criação de aplicações Java.
 - **Maven**: Gerenciador de dependências e build.
 - **Docker & Docker Compose**: Para containerização e orquestração do ambiente de banco de dados.
-- **Banco de Dados**: Configurado via Docker (possivelmente PostgreSQL ou MySQL).
+- **Banco de Dados**: PostgreSQL via Docker.
 - **JPA/Hibernate**: Para mapeamento objeto-relacional.
 
 ## 📁 Estrutura do Projeto
