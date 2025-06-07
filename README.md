@@ -63,7 +63,7 @@ A aplicação estará disponível em `http://localhost:8080`.
 
 ## 🔧 Endpoints da API
 
-> *Nota: A documentação detalhada dos endpoints ainda não está disponível. Recomenda-se utilizar ferramentas como Swagger ou Postman para explorar a API.*
+> *Nota: A documentação detalhada dos endpoints ainda não está disponível.*
 
 ## 🐳 Sobre o docker-compose.yml
 
